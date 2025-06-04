@@ -36,11 +36,19 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=clojure" height="40" alt="clojure logo"  />
 </div>
 
 ###
 
-<h3 align="center">Social Media</h3>
+<h3 align="center">Speak with me</h3>
 
 ###
 
@@ -54,6 +62,20 @@
   <a href="kaua.vidal@dcx.ufpb.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<h3 align="center">What am I learning:</h3>
+
+###
+
+<h4 align="center">➮ JavaScript<br>➮ Redes de Computadores<br>➮ Segurança da Informação<br>➮ Inteligência Artificial</h4>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-Vidal.Kaua-Vidal&left_text=Thanks%20for%20visiting%20my%20profile,%20come%20back%20soon!"  />
 </div>
 
 ###
