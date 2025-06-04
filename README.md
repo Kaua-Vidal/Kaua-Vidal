@@ -48,6 +48,14 @@
 
 ###
 
+<h3 align="center">What am I learning:</h3>
+
+###
+
+<h4 align="center">➮ JavaScript<br>➮ Redes de Computadores<br>➮ Segurança da Informação<br>➮ Inteligência Artificial</h4>
+
+###
+
 <h3 align="center">Speak with me</h3>
 
 ###
@@ -66,16 +74,8 @@
 
 ###
 
-<h3 align="center">What am I learning:</h3>
-
-###
-
-<h4 align="center">➮ JavaScript<br>➮ Redes de Computadores<br>➮ Segurança da Informação<br>➮ Inteligência Artificial</h4>
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-Vidal.Kaua-Vidal&left_text=Thanks%20for%20visiting%20my%20profile,%20come%20back%20soon!"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-Vidal.Kaua-Vidal&left_text=Thanks%20for%20visiting%20me,%20come%20back%20soon!"  />
 </div>
 
 ###
