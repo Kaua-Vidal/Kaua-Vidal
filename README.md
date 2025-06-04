@@ -67,8 +67,7 @@
   <a href="https://www.instagram.com/kaua_vidal_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="<a href="mailto:kaua.vidal@dcx.ufpb.br">Entre em contato</a>
-" target="_blank">
+  <a href="mailto:kaua.vidal@dcx.ufpb.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
