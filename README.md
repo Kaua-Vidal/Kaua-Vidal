@@ -47,7 +47,7 @@
 </div>
 
 <h4 align="center">
-  <a href="https://portfolio-kaua-vidal.netlify.app/" target="_blank">Meu Portfólio</a>
+  <a href="https://portfolio-kaua-vidal.netlify.app/" target="_blank">Access my portfolio here</a>
 </h4>
 
 ###
