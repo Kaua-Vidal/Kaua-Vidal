@@ -52,6 +52,10 @@
 
 ###
 
+###
+
+<h4 align="center">[My Portfolio](https://portfolio-kaua-vidal.netlify.app)</h4>
+
 <h4 align="center">➮ JavaScript<br>➮ Redes de Computadores<br>➮ Segurança da Informação<br>➮ Inteligência Artificial</h4>
 
 ###
