@@ -46,15 +46,13 @@
   <img src="https://skillicons.dev/icons?i=clojure" height="40" alt="clojure logo"  />
 </div>
 
+<h4 align="center">[Meu Portifólio](https://portfolio-kaua-vidal.netlify.app/)</h4>
+
 ###
 
 <h3 align="center">What am I learning:</h3>
 
 ###
-
-###
-
-<h4 align="center">[My Portfolio](https://portfolio-kaua-vidal.netlify.app)</h4>
 
 <h4 align="center">➮ JavaScript<br>➮ Redes de Computadores<br>➮ Segurança da Informação<br>➮ Inteligência Artificial</h4>
 
