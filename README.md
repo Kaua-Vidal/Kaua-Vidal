@@ -46,7 +46,9 @@
   <img src="https://skillicons.dev/icons?i=clojure" height="40" alt="clojure logo"  />
 </div>
 
-<h4 align="center">[Meu Portifólio](https://portfolio-kaua-vidal.netlify.app/)</h4>
+<h4 align="center">
+  <a href="https://portfolio-kaua-vidal.netlify.app/" target="_blank">Meu Portfólio</a>
+</h4>
 
 ###
 
