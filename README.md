@@ -179,7 +179,7 @@ Tenho forte conhecimento em **inglês**, o que facilita meu acesso a recursos, t
 />
 <img 
     alt="GitHub Stats"
-    height="175"
+    height="180"
     style="padding-right: 10px;" 
     src="https://github-readme-stats-ebon-ten-19.vercel.app/api/top-langs/?username=Kaua-Vidal&layout=compact&theme=transparent&langs_count=7&custom_title=Tecnologies"
 />
