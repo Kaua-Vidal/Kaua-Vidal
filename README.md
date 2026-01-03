@@ -7,13 +7,6 @@ Meu nome é Kauã Vidal. Como estudante de Ciência da Computação, estou aprof
 Tenho forte conhecimento em **inglês**, o que facilita meu acesso a recursos, tutoriais e comunidades internacionais de desenvolvedores. Minha paixão por aprender e aplicar novas tecnologias é contínua. A cada projeto, minha dedicação e ambição me impulsionam a buscar a excelência. Estou pronto para contribuir com uma equipe, agregando meu conhecimento técnico e meu entusiasmo em desenvolver produtos de alta qualidade.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
